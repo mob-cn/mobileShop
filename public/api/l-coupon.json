@@ -1,0 +1,45 @@
+{
+    "code": 0,
+    "data": [
+        {
+            "id": 0,
+            "name": "OMINI.BASS官方旗舰店",
+            "startTime": "2019.07.01",
+            "endTime": "2019.07.31",
+            "priceReduce": 10,
+            "receive": true
+        },
+        {
+            "id": 1,
+            "name": "OMINI.BASS官方旗舰店",
+            "startTime": "2019.07.01",
+            "endTime": "2019.07.31",
+            "priceReduce": 10,
+            "receive": false
+        },
+        {
+            "id": 2,
+            "name": "OMINI.BASS官方旗舰店",
+            "startTime": "2019.07.01",
+            "endTime": "2019.07.31",
+            "priceReduce": 10,
+            "receive": false
+        },
+        {
+            "id": 3,
+            "name": "OMINI.BASS官方旗舰店",
+            "startTime": "2019.07.01",
+            "endTime": "2019.07.31",
+            "priceReduce": 10,
+            "receive": false
+        },
+        {
+            "id": 4,
+            "name": "OMINI.BASS官方旗舰店",
+            "startTime": "2019.07.01",
+            "endTime": "2019.07.31",
+            "priceReduce": 10,
+            "receive": false
+        }
+    ]
+}

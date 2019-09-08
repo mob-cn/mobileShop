@@ -1,0 +1,80 @@
+{
+	"swipList": [
+		{ "img": "/img/show3.jpg", "textWords": "BDM新款发售" },
+		{ "img": "/img/show2.jpg", "textWords": "关注有惊喜" },
+		{ "img": "/img/show3.jpg", "textWords": "新款限时优惠" },
+		{ "img": "/img/show2.jpg", "textWords": "嘤嘤嘤" }
+	],
+	"bannerList": [
+		{
+			"img": "/img/show3.jpg",
+			"title": "耳饰",
+			"titleEn": "EARRINGS"
+		},
+		{
+			"img": "/img/show3.jpg",
+			"title": "项链",
+			"titleEn": "NECKLACE"
+		},
+		{
+			"img": "/img/show3.jpg",
+			"title": "手链",
+			"titleEn": "BRACELET"
+		},
+		{
+			"img": "/img/show3.jpg",
+			"title": "戒指",
+			"titleEn": "RING"
+		}
+	],
+	"contentList": [
+		{
+			"img": "/img/2019-07-28_104616.png",
+			"title": "OMINI简约及黑色上衣T恤",
+			"tax": 23.5,
+			"price": 523.6 
+		},
+		{
+			"img": "/img/2019-07-28_104616.png",
+			"title": "OMINI简约及黑色上衣T恤",
+			"tax": 23.5,
+			"price": 523.6 
+		},
+		{
+			"img": "/img/2019-07-28_104616.png",
+			"title": "OMINI简约及黑色上衣T恤",
+			"tax": 23.5,
+			"price": 523.6 
+		},
+		{
+			"img": "/img/2019-07-28_104616.png",
+			"title": "OMINI简约及黑色上衣T恤",
+			"tax": 23.5,
+			"price": 523.6 
+		},
+		{
+			"img": "/img/2019-07-28_104616.png",
+			"title": "OMINI简约及黑色上衣T恤",
+			"tax": 23.5,
+			"price": 523.6 
+		},
+		{
+			"img": "/img/2019-07-28_104616.png",
+			"title": "OMINI简约及黑色上衣T恤",
+			"tax": 23.5,
+			"price": 523.6 
+		},
+		{
+			"img": "/img/2019-07-28_104616.png",
+			"title": "OMINI简约及黑色上衣T恤",
+			"tax": 23.5,
+			"price": 523.6 
+		},
+		{
+			"img": "/img/2019-07-28_104616.png",
+			"title": "OMINI简约及黑色上衣T恤",
+			"tax": 23.5,
+			"price": 523.6 
+		}
+	]
+}

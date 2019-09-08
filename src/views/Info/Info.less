@@ -1,0 +1,116 @@
+.xzw-info {
+	display: flex;
+	justify-content: center;
+		.xzw-info-content {
+		width: 100%;
+	    position: absolute;
+	    top: 100px;
+	    bottom: 75px;
+	    overflow: hidden;
+	    border-bottom: 1px solid #F2F2F2;
+	    padding-top: 100px;
+	    display: flex;
+	    justify-content: center;
+	    flex-wrap: wrap;
+	    .replaceul {
+	    	width: 90%;
+	    	.replaceli {
+				width: 100%;
+				padding-bottom: 5px;
+				border-bottom: 1px solid #ccc;
+				a {
+					display: flex;
+					width: 100%;
+					div:first-child {
+						width: 15%;
+						display: flex;
+						align-items: center;
+					}
+					div:last-child {
+						margin-left: 20px;
+						width: 85%;
+						p {
+							line-height: 30px;
+							color: #333333;
+							display: flex;
+							justify-content: space-between;
+							&:first-child  {
+								font-size: 15px;
+								span:last-child {
+									color: #666666;
+								}
+							}
+							&:last-child {
+								font-size: 12px;
+								color: #666;
+								span:last-child {
+									width: 20px;
+									height: 20px;
+									display: block;
+									background-color:#F96877;
+									text-align: center;
+									line-height: 20px;
+									border-radius: 50%;
+									color: #fff;
+									font-weight: bold;
+								}
+							}
+						}
+					}
+				}
+		    }
+		    .clue {
+		    	margin-top: 20px;
+		    	text-align: center;
+		    	font-size: 18px;
+		    	font-weight: bold;
+		    	color: #C1AB96;
+		    }
+	    }
+	    
+	 }
+	.xzw-info-nav {
+		position: absolute;
+		top: 70px;
+		width: 92%;
+		height: 11%;
+		background-color: #fff;
+		overflow: hidden;
+		border-radius: 20px;
+		display: flex;
+		margin:auto;
+		box-shadow: 3px 3px 15px rgba(0, 0, 0, .5);
+		a {
+			height: 100%;
+			width: 100%;
+			flex: 1;
+			div {
+				height: 100%;
+				width: 100%;
+				text-align: center;
+				padding-top: 10px;
+				span:first-child {					margin: auto;
+					display: block;
+					width: 35%;
+					height: 0;
+					padding-bottom: 35%;
+					border-radius: 50%;
+					background-image: -webkit-linear-gradient(left, yellow,#33FFB8);
+					margin-bottom: 10px;
+					position: relative;
+					&::after {
+						content: "";
+						position: absolute;
+						background: url('/img/1.png') no-repeat center center;
+						height: 100%;
+						width: 100%;
+						left: 0;
+					}
+				}
+				span:last-child {
+					color: #666666;
+				}
+			}
+		}
+	}
+}

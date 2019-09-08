@@ -1,0 +1,45 @@
+{
+    "code": 1,
+    "data": [
+        {
+            "id": 0,
+            "name": "OMINI.BASS",
+            "phoneNumber": "18802155485",
+            "defaultAddress": true,
+            "addressDetails": "重庆市渝北区龙溪镇金顶路2号",
+            "street": "山顶道壹号2栋92-8"
+        },
+        {
+            "id": 1,
+            "name": "友军",
+            "phoneNumber": "18802155485",
+            "defaultAddress": false,
+            "addressDetails": "重庆市渝北区龙溪镇金顶路2号",
+            "street": "山顶道壹号2栋92-8"
+        },
+        {
+            "id": 2,
+            "name": "Luffy",
+            "phoneNumber": "18802155485",
+            "defaultAddress": false,
+            "addressDetails": "重庆市渝北区龙溪镇金顶路2号",
+            "street": "山顶道壹号2栋92-8"
+        },
+        {
+            "id": 3,
+            "name": "友军",
+            "phoneNumber": "18802155485",
+            "defaultAddress": false,
+            "addressDetails": "重庆市渝北区龙溪镇金顶路2号",
+            "street": "山顶道壹号2栋92-8"
+        },
+        {
+            "id": 4,
+            "name": "Luffy",
+            "phoneNumber": "18802155485",
+            "defaultAddress": false,
+            "addressDetails": "重庆市渝北区龙溪镇金顶路2号",
+            "street": "山顶道壹号2栋92-8"
+        }
+    ]
+}

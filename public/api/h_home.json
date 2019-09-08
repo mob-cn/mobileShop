@@ -1,0 +1,67 @@
+{
+	"list": [
+		{
+		"img": "img/pic_u810-0.png",
+		"text": "OMINI简约上衣T恤",
+		"newPrice": "523.6",
+		"oldPrice": "1233.00"
+		},
+		{
+			"img": "img/pic_u810-1.png",
+			"text": "OMINI简约上衣T恤",
+			"newPrice": "523.6",
+			"oldPrice": "1233.00"
+		},
+		{
+			"img": "img/pic_u810-2.png",
+			"text": "OMINI简约上衣T恤",
+			"newPrice": "523.6",
+			"oldPrice": "1233.00"
+		}
+	],
+	"recommed": [
+		{	
+			"http": "/productcard/1",
+			"img": "img/p0.jpg",
+			"text": "OADI简约及白色上衣T恤",
+			"price": "1133.6"
+		},
+		{
+			"http": "/productcard/2",
+			"img": "img/p1.jpg",
+			"text": "OMADINI简约及黑色上衣T恤",
+			"price": "2243.6"
+		},
+		{
+			"http": "/productcard/3",
+			"img": "img/p2.jpg",
+			"text": "OMAAINI简约及蓝色上衣T恤",
+			"price": "3243.6"
+		},
+		{
+			"http": "/productcard/4",
+			"img": "img/p0.jpg",
+			"text": "FCXOMINI简约及绿色上衣T恤",
+			"price": "4523.6"
+		},
+		{
+			"http": "/productcard/5",
+			"img": "img/p1.jpg",
+			"text": "ZCINI简约及黑色上衣T恤",
+			"price": "5253.6"
+		},
+		{
+			"http": "/productcard/6",
+			"img": "img/p2.jpg",
+			"text": "OMASDINI简约及黑色上衣T恤",
+			"price": "5323.6"
+		},
+		{
+			"http": "/productcard/7",
+			"img": "img/p0.jpg",
+			"text": "OMIDI简约及黑色上衣T恤",
+			"price": "523.6"
+		}
+
+	]
+}

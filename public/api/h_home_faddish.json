@@ -1,0 +1,13 @@
+{	
+	"errno": 0,
+	"data": [
+		{ "http":"/faddishcard/1", "img": "img/p1.jpg", "closeName": "OMINI简约及黑色上衣T恤", "collect": "213", "newPrice": "523.6", "oldPrice": "1333.0", "HaveBeenSold": "4333" },
+		{ "http":"/faddishcard/2", "img": "img/p2.jpg", "closeName": "AMINI简约及白色上衣T恤", "collect": "223", "newPrice": "623.6", "oldPrice": "2333.0", "HaveBeenSold": "5333" },
+		{ "http":"/faddishcard/3", "img": "img/p0.jpg", "closeName": "BMINI简约及蓝色上衣T恤", "collect": "233", "newPrice": "723.6", "oldPrice": "3333.0", "HaveBeenSold": "2333" },
+		{ "http":"/faddishcard/4", "img": "img/p1.jpg", "closeName": "CMINI简约及绿色上衣T恤", "collect": "243", "newPrice": "823.6", "oldPrice": "4333.0", "HaveBeenSold": "33743" },
+		{ "http":"/faddishcard/5", "img": "img/p2.jpg", "closeName": "DMINI简约及灰色上衣T恤", "collect": "253", "newPrice": "923.6", "oldPrice": "5333.0", "HaveBeenSold": "234733" },
+		{ "http":"/faddishcard/6", "img": "img/p0.jpg", "closeName": "EMINI简约及粉色上衣T恤", "collect": "263", "newPrice": "523.6", "oldPrice": "6333.0", "HaveBeenSold": "23733" },
+		{ "http":"/faddishcard/7", "img": "img/p2.jpg", "closeName": "CMINI简约及紫色上衣T恤", "collect": "273", "newPrice": "623.6", "oldPrice": "7333.0", "HaveBeenSold": "233" },
+		{ "http":"/faddishcard/8", "img": "img/p1.jpg", "closeName": "FMINI简约及黄色上衣T恤", "collect": "283", "newPrice": "723.6", "oldPrice": "8333.0", "HaveBeenSold": "27333" }
+	]
+}

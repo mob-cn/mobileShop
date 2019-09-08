@@ -1,0 +1,9 @@
+{
+	"data": [
+		{ "http":"/store/1",  "storeName": "OMINI官方旗舰店", "creditValue": "800", "img1": "img/p0.jpg", "img2": "img/p1.jpg", "img3": "img/p2.jpg" },
+		{ "http":"/store/2",  "storeName": "OMINI官方旗舰店", "creditValue": "800", "img1": "img/p1.jpg", "img2": "img/p2.jpg", "img3": "img/p0.jpg" },
+		{ "http":"/store/3",  "storeName": "OMINI官方旗舰店", "creditValue": "800", "img1": "img/p2.jpg", "img2": "img/p0.jpg", "img3": "img/p1.jpg" },
+		{ "http":"/store/4",  "storeName": "OMINI官方旗舰店", "creditValue": "800", "img1": "img/p0.jpg", "img2": "img/p1.jpg", "img3": "img/p2.jpg" },
+		{ "http":"/store/5",  "storeName": "OMINI官方旗舰店", "creditValue": "800", "img1": "img/p1.jpg", "img2": "img/p2.jpg", "img3": "img/p0.jpg" }
+	]
+}
